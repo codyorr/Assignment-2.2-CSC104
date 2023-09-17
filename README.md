@@ -1,8 +1,11 @@
 # Assignment-2.2-CSC104
 
+
 INDEX.html
 
 Displays article one of the consitution and manages spacing.
+
+
 
 MAIN.css
 
