@@ -1,15 +1,16 @@
 body {
-    background-color: rgb(208, 205, 205);
+    background-color: rgb(208, 205, 205); /* colors the background */
 }
 
+/* styles all the current headers */
 h1,h2,h3 {
-    font-family: 'Times New Roman', Times, serif;
-    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif; /* Times new roman with Timse and serif as fallbacks */
+    font-weight: bold; /* set the text to bold */
 }
 
 p {
-    font-family: 'Garamond', Times, serif;
-    font-style: italic;
-    font-size: 24px;
+    font-family: 'Garamond', Times, serif; /* Garamond with times and serif as fallbacks */
+    font-style: italic; /* sets the text to italic */
+    font-size: 24px; /* resize text */
 }
 
