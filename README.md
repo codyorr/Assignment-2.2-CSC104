@@ -1,12 +1,12 @@
 # Assignment-2.2-CSC104
 
 
-INDEX.html
+Index.html
 
-Displays article one of the consitution and manages spacing.
+Displays the first article of the constitution and manages spacing.
 
+-
 
-
-MAIN.css
+Main.css
 
 Attempts to style the text and background in a way that makes the article easier to read.
